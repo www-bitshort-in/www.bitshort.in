@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Your digital ally for well-being',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
+  twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
